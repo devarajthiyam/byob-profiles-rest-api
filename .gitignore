@@ -97,5 +97,5 @@ ENV/
 # mkdocs documentation
 /site
 
-*.sqlite3
+# *.sqlite3
 .vagrant
